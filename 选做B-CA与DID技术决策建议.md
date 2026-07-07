@@ -1,4 +1,4 @@
-﻿# 选做 B：CA/PKI 与 DID/VC 技术决策建议
+# 选做 B：CA/PKI 与 DID/VC 技术决策建议
 
 ## 结论先行
 
